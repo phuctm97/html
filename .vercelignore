@@ -1,0 +1,4 @@
+# Ignore everything (folders and files), upload only HTML
+*
+!vercel.json
+!*.html
